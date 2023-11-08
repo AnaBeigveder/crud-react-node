@@ -1,4 +1,6 @@
+# Cosas que no suben a Github (el .env nunca debe subir porque tiene información sensible)
 node_modules
 .DS_Store
 dist
 dist-ssr
+.env
